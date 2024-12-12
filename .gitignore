@@ -1,0 +1,4 @@
+/node_modules/
+/dist/
+.next/
+.gitignorenode_modules/
